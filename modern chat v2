@@ -1,0 +1,43 @@
+local TextChatService = game:GetService("TextChatService")
+
+
+local function sendChatMessage(message)
+    local chatChannel = TextChatService.TextChannels.RBXGeneral
+    if chatChannel then
+        chatChannel:SendAsync(message)
+    else
+        warn("Chat channel RBXGeneral not found.")
+    end
+end
+
+sendChatMessage("(The ƿ۞ŕñ dude in kindergarten) śεﾒ roleplay story epicsode 1 part 2")
+wait(5)
+sendChatMessage("the_ƿ۞ŕñ_dude:       *goes into the kindergarten while beating his Ԁίćƙ*")
+wait(4.5)
+sendChatMessage("the_ƿ۞ŕñ_dude:               #so many children to ʍǟśʈʋřbɑʈe on ngl#")
+wait(4)
+sendChatMessage("the_ƿ۞ŕñ_dude:                #his Ԁίćƙ rises alot because of the children#")
+wait(4.5)
+sendChatMessage("*the_ƿ۞ŕñ_dude has to teach the little children math*")
+wait(4.5)
+sendChatMessage("*the_ƿ۞ŕñ_dude explains why his Ԁίćƙ is so mάśšive*")
+wait(5)
+sendChatMessage("kid:              #so youre saying that if i ʍǟśʈʋřbɑʈe alot i get a mάśšive Ԁίćƙ*")
+wait(5)
+sendChatMessage("the_ƿ۞ŕñ_dude:               #yes you can ʍǟśʈʋřbɑʈe right now#")
+wait(4.69)
+sendChatMessage("kid:           *gets ňàķ۵ҽď and starts beating his Ԁίćƙ*")
+wait(5)
+sendChatMessage("*his Ԁίćƙ is now 69% bigger*")
+wait(4)
+sendChatMessage("the_ƿ۞ŕñ_dude:          *śЦćķs his Ԁίćƙ without any permission")
+wait(5.4)
+sendChatMessage("*he also made the 10 year old ƿŕéğńâňť but he dosnt give a slightly Ѕhìɬ *")
+wait(5.69)
+sendChatMessage("*the police ɓìťćん had returned and arrested  the_ƿ۞ŕñ_dude because he didnt used any ć۞ňď۞ms*")
+wait(6)
+sendChatMessage("*the police arrested the_p۞ŕñ_dude because he made another kid ƿŕéğńâňť*")
+wait(5)
+sendChatMessage("*hes now in jail and he still beats his Ԁίćƙ infront of the police*")
+wait(4.5)
+sendChatMessage("THATS THE END OF THE_ƿ0ŘИ_DUDES Ś乇ﾒ   ROLEPLAY STORY EPICSODE 1 PART 2!")
